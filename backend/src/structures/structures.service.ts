@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
-import { PrismaService } from 'prisma/prisma.service';
 // Importe seu DTO se já tiver criado, senão use a interface inline por enquanto
 import { CreateStructureDto } from './dto/create-structure.dto'; 
+import { PrismaService } from '../../prisma/prisma.service';
 
 @Injectable()
 export class StructuresService {

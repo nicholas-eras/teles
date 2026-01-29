@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
-import { PrismaService } from 'prisma/prisma.service'; // Ajuste o import conforme seu projeto
 import { CreateStandardDto } from './dto/create-standard.dto';
 import { UpdateStandardDto } from './dto/update-standard.dto';
+import { PrismaService } from '../../prisma/prisma.service';
 
 @Injectable()
 export class StandardsService {
