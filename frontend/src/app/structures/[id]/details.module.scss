@@ -1,0 +1,135 @@
+// Subimos 3 níveis: [id] -> structures -> app -> src -> styles
+@use '../../styles/variables' as *;
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  animation: fadeIn 0.4s ease-out;
+}
+
+/* --- Cabeçalho da Página --- */
+.header {
+  margin-bottom: 30px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 20px;
+
+  h1 {
+    font-size: 2.2rem;
+    color: $text-main;
+    margin-bottom: 10px;
+  }
+}
+
+.metaInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 1rem;
+  color: $text-muted;
+
+  strong {
+    color: $primary; 
+  }
+}
+
+.sectionTitle {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  color: $text-main;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  span {
+    background: $bg-card;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    color: $text-muted;
+  }
+}
+
+/* --- Tabela de Materiais --- */
+.tableContainer {
+  background: $bg-card;
+  border-radius: $radius;
+  overflow: hidden; // Garante que as bordas da tabela fiquem arredondadas
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  
+  th, td {
+    padding: 16px 20px;
+    text-align: left;
+  }
+
+  th {
+    background-color: rgba(0, 0, 0, 0.2); // Fundo mais escuro para o cabeçalho
+    color: $text-muted;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  }
+
+  tbody tr {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    transition: background-color 0.2s;
+    color: $text-main;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    &:hover {
+      background-color: lighten($bg-card, 3%);
+    }
+  }
+
+  td {
+    font-size: 0.95rem;
+  }
+
+  // Estilo para tabela vazia
+  .emptyState {
+    text-align: center;
+    padding: 40px;
+    color: $text-muted;
+    font-style: italic;
+  }
+}
+
+/* --- Botão Voltar --- */
+.btnBack {
+  margin-top: 30px;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: $text-muted;
+  padding: 10px 20px;
+  border-radius: $radius;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.2s;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  &:hover {
+    border-color: $text-main;
+    color: $text-main;
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}

@@ -1,0 +1,21 @@
+// src/styles/_variables.scss
+
+// --- Cores da Marca (Brand) ---
+$primary: #3b82f6;        // Azul Vibrante
+$primary-hover: #2563eb;  // Azul mais escuro para hover
+
+// --- Cores de Feedback (Ações Destrutivas) ---
+$danger: #ef4444;         // Vermelho
+$danger-hover: #dc2626;   // Vermelho escuro
+
+// --- Tipografia ---
+$text-main: #f8fafc;      // Branco (quase puro)
+$text-muted: #94a3b8;     // Cinza azulado (para descrições)
+
+// --- Fundos (Dark Mode) ---
+$bg-body: #0f172a;        // Fundo da página (Muito escuro)
+$bg-card: #1e293b;        // Fundo dos cards
+$bg-input: #334155;       // Fundo dos inputs (Ligeiramente mais claro que o card)
+
+// --- UI Geral ---
+$radius: 8px;             // Arredondamento padrão

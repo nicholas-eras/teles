@@ -1,0 +1,45 @@
+// schema.prisma
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Nova tabela para o Padrão (Ex: EDP, CPFL, ENEL)
+model Standard {
+  id          Int      @id @default(autoincrement())
+  name        String   @unique // Ex: "EDP"
+  description String?  // Ex: "Padrão de distribuição EDP São Paulo"
+  updatedAt   DateTime @updatedAt // Atualiza automaticamente
+  
+  structures  Structure[]
+}
+
+model Structure {
+  id          Int      @id @default(autoincrement())
+  // Removemos o @unique global do nome, pois "CE1" pode existir na EDP e na CPFL
+  name        String   
+  
+  // Relacionamento com Standard
+  standardId  Int
+  standard    Standard @relation(fields: [standardId], references: [id], onDelete: Cascade)
+
+  materials   StructureMaterial[]
+
+  // A chave única agora é composta: Não pode repetir o nome DENTRO do mesmo padrão
+  @@unique([name, standardId])
+}
+
+model StructureMaterial {
+  id          Int      @id @default(autoincrement())
+  description String   
+  unit        String   
+  quantity    String   
+
+  structureId Int
+  structure   Structure @relation(fields: [structureId], references: [id], onDelete: Cascade)
+}

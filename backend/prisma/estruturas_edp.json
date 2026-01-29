@@ -1,0 +1,2804 @@
+[
+    {
+        "nome": "Estrutura CE1",
+        "materiais": [
+            {
+                "item": "D43",
+                "descricao": "Espaçador losangular autotravante - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F110",
+                "descricao": "Braço tipo L - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE1A",
+        "materiais": [
+            {
+                "item": "F110",
+                "descricao": "Braço tipo L - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F64",
+                "descricao": "Estribo para braço tipo L",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F230",
+                "descricao": "Parafuso de cabeça quadrada - M16x50 mm",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "D43",
+                "descricao": "Espaçador losangular autotravante - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "D44",
+                "descricao": "Braço anti-balanço - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE2",
+        "materiais": [
+            {
+                "item": "F31",
+                "descricao": "Pino curto de isolador - 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F62",
+                "descricao": "Braço tipo C - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I13",
+                "descricao": "Isolador de pino polimérico auto travante",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE3",
+        "materiais": [
+            {
+                "item": "F111",
+                "descricao": "Suporte Z",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F4",
+                "descricao": "Mão francesa - Tipo 1",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F68",
+                "descricao": "Cantoneira auxiliar",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F69",
+                "descricao": "Cantoneira reta",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico - 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "C10",
+                "descricao": "Cabo coberto CU XLPE 16 mm²",
+                "unidade": "m",
+                "quantidade": "3"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "E22",
+                "descricao": "Para-raios - 12 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "D45",
+                "descricao": "Cobertura protetora para para-raios",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O41",
+                "descricao": "Conector estrangulamento – Tipo1",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "C31",
+                "descricao": "Cabo de aço cobreado 16 mm²",
+                "unidade": "Kg",
+                "quantidade": "2,4"
+            },
+            {
+                "item": "F303",
+                "descricao": "Haste de aterramento cilíndrica 2400 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O11",
+                "descricao": "Conector cunha para aterramento",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O3",
+                "descricao": "Conector tipo parafuso fendido",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "O49",
+                "descricao": "Conector 4 derivações aterramento",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "P1",
+                "descricao": "Poste concreto ou fibra",
+                "unidade": "pç",
+                "quantidade": "1"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE4",
+        "materiais": [
+            {
+                "item": "F31",
+                "descricao": "Pino curto de isolador - 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F62",
+                "descricao": "Braço tipo C - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "7"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "7"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I13",
+                "descricao": "Isolador de pino polimérico auto travante",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico - 15 kV",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "P1",
+                "descricao": "Poste concreto ou fibra",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O09",
+                "descricao": "Conector cunha alumínio",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura 2CE3 (Dois finais de linha)",
+        "materiais": [
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F31",
+                "descricao": "Pino curto de isolador - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F4",
+                "descricao": "Mão francesa - Tipo 1",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F68",
+                "descricao": "Cantoneira auxiliar",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "8"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico - 15 kV",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "I13",
+                "descricao": "Isolador de pino polimérico auto travante",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-SH",
+        "materiais": [
+            {
+                "item": "F65",
+                "descricao": "Suporte horizontal",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F110",
+                "descricao": "Braço tipo L - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F31",
+                "descricao": "Pino curto de isolador - 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I13",
+                "descricao": "Isolador de pino polimérico auto travante",
+                "unidade": "pç",
+                "quantidade": "3"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE2-3LF (Derivação – lado frente)",
+        "materiais": [
+            {
+                "item": "F62",
+                "descricao": "Braço tipo C - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F68",
+                "descricao": "Cantoneira auxiliar para braço tipo C",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico - 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I13",
+                "descricao": "Isolador de pino polimérico auto travante",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F31",
+                "descricao": "Pino curto de isolador - 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE2-C3-LO (Derivação – lado oposto)",
+        "materiais": [
+            {
+                "item": "F62",
+                "descricao": "Braço tipo C - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F68",
+                "descricao": "Cantoneira auxiliar para braço tipo C",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "5"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico - 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I13",
+                "descricao": "Isolador de pino polimérico auto travante",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F31",
+                "descricao": "Pino curto de isolador - 15 kV",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-AF-S (Afastador com suporte horizontal)",
+        "materiais": [
+            {
+                "item": "F66",
+                "descricao": "Suporte afastador horizontal - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F203",
+                "descricao": "Parafuso de cabeça abaulada - M16x100 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "D43",
+                "descricao": "Espaçador losangular autotravante - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-AF-C1 (Afastador com cruzeta)",
+        "materiais": [
+            {
+                "item": "R21",
+                "descricao": "Cruzeta de fibra de vidro",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F231",
+                "descricao": "Parafuso de cabeça quadrada - M16x125 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F2",
+                "descricao": "Mão francesa tipo 2",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F202",
+                "descricao": "Parafuso de cabeça abaulada - M16x150 mm",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F75",
+                "descricao": "Sela para cruzeta",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "D42",
+                "descricao": "Espaçador losangular autotravante - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-AF-C4 (Afastador com cruzeta de aço)",
+        "materiais": [
+            {
+                "item": "R16",
+                "descricao": "Cruzeta de aço 2000 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F2",
+                "descricao": "Mão francesa tipo 2",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "8"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F217",
+                "descricao": "Parafuso espaçador",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F75",
+                "descricao": "Sela para cruzeta de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F31",
+                "descricao": "Pino curto de isolador - 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico - 15 kV",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "I13",
+                "descricao": "Isolador de pino polimérico auto travante",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "6"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE4-CF (Chave faca)",
+        "materiais": [
+            {
+                "item": "D23",
+                "descricao": "Suporte para números refletivos",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "D33",
+                "descricao": "Abraçadeira flexível preta",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "D26",
+                "descricao": "Película alfanumérica para identificação",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "E6",
+                "descricao": "Chave faca - 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F2",
+                "descricao": "Mão francesa tipo 2",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F54",
+                "descricao": "Suporte para fixação de chave faca",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F75",
+                "descricao": "Sela para cruzeta",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "8"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F217",
+                "descricao": "Parafuso espaçador",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F234",
+                "descricao": "Parafuso cabeça quadrada - M16 x 250 mm",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico - 15 kV",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "O41",
+                "descricao": "Conector terminal por estrangulamento",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "R16",
+                "descricao": "Cruzeta de aço 2000 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE4-BF (Chave fusível)",
+        "materiais": [
+            {
+                "item": "C10",
+                "descricao": "Cabo coberto CU XLPE 16 mm²",
+                "unidade": "m",
+                "quantidade": "7"
+            },
+            {
+                "item": "D23",
+                "descricao": "Suporte para números refletivos",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "D33",
+                "descricao": "Abraçadeira flexível preta",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "D26",
+                "descricao": "Película alfanumérica para identificação",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "E2",
+                "descricao": "Chave fusível -15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "E9",
+                "descricao": "Elo fusível",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F111",
+                "descricao": "Suporte Z",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "5"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "7"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F203",
+                "descricao": "Parafuso de cabeça abaulada - M16x100 mm",
+                "unidade": "pç",
+                "quantidade": "5"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F62",
+                "descricao": "Braço tipo C 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F66",
+                "descricao": "Suporte afastador horizontal - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "7"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico - 15 kV",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "O50",
+                "descricao": "Conector perfurante 15 kV com estribo",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O6",
+                "descricao": "Conector tipo grampo de linha viva",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "C31",
+                "descricao": "Cabo de aço cobreado 16 mm²",
+                "unidade": "Kg",
+                "quantidade": "2,4"
+            },
+            {
+                "item": "D33",
+                "descricao": "Abraçadeira flexível preta",
+                "unidade": "pç",
+                "quantidade": "8"
+            },
+            {
+                "item": "D45",
+                "descricao": "Cobertura protetora para para-raios",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "E22",
+                "descricao": "Para-raios - 12 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F111",
+                "descricao": "Suporte tipo Z",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F66",
+                "descricao": "Suporte afastador horizontal - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F203",
+                "descricao": "Parafuso de cabeça abaulada - M16x100 mm",
+                "unidade": "pç",
+                "quantidade": "7"
+            },
+            {
+                "item": "F303",
+                "descricao": "Haste de aterramento cilíndrica 2400 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O3",
+                "descricao": "Conector tipo parafuso fendido",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O11",
+                "descricao": "Conector cunha para aterramento",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O41",
+                "descricao": "Conector estrangulamento",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O49",
+                "descricao": "Conector 4 derivações aterramento",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "O6",
+                "descricao": "Conector tipo grampo linha viva",
+                "unidade": "pç",
+                "quantidade": "3"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-SA-SU (Saída subterrânea de circuitos primários)",
+        "materiais": [
+            {
+                "item": "O41",
+                "descricao": "Conector Term. Tipo Estrangulador",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "C10",
+                "descricao": "Cabo coberto CU XLPE 16 mm²",
+                "unidade": "m",
+                "quantidade": "4"
+            },
+            {
+                "item": "C31",
+                "descricao": "Cabo de aço cobreado 16 mm²",
+                "unidade": "Kg",
+                "quantidade": "2,4"
+            },
+            {
+                "item": "D23",
+                "descricao": "Suporte para números refletivos",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "D26",
+                "descricao": "Película alfanumérica para identificação",
+                "unidade": "pç",
+                "quantidade": "12"
+            },
+            {
+                "item": "D34",
+                "descricao": "Abraçadeira flexível preta",
+                "unidade": "pç",
+                "quantidade": "10"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "D45",
+                "descricao": "Cobertura protetora para para-raios",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "E22",
+                "descricao": "Para-raios - 12 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "E114",
+                "descricao": "Chave faca de 2 vias 15 kV (Tanden)",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F1",
+                "descricao": "Mão francesa cantoneira - tipo 1",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F5",
+                "descricao": "Mão francesa plana - tipo 2",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "5"
+            },
+            {
+                "item": "F31",
+                "descricao": "Pino curto de isolador – 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F75",
+                "descricao": "Sela para cruzeta de aço",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F66",
+                "descricao": "Suporte afastador horizontal - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F111",
+                "descricao": "Suporte tipo Z",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "8"
+            },
+            {
+                "item": "F203",
+                "descricao": "Parafuso de cabeça abaulada - M16x100 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F231",
+                "descricao": "Parafuso cabeça quadrada M16 x 125 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F217",
+                "descricao": "Parafuso espaçador",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F303",
+                "descricao": "Haste de aterramento cilíndrica 2400 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I13",
+                "descricao": "Isolador de pino polimérico auto travante",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O49",
+                "descricao": "Conector 4 derivações aterramento",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "O3",
+                "descricao": "Conector tipo parafuso fendido",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "O11",
+                "descricao": "Conector cunha para aterramento",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O41",
+                "descricao": "Conector estrangulamento",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "R16",
+                "descricao": "Cruzeta de aço",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "P1",
+                "descricao": "Poste concreto ou fibra",
+                "unidade": "pç",
+                "quantidade": "1"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-SA-SU-CF (Saída subterrânea de circuitos primários com chave faca)",
+        "materiais": [
+            {
+                "item": "O41",
+                "descricao": "Conector Term. Tipo Estrangulador Tipo 1",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "C31",
+                "descricao": "Cabo de aço cobreado 16 mm²",
+                "unidade": "Kg",
+                "quantidade": "2,4"
+            },
+            {
+                "item": "D23",
+                "descricao": "Suporte para números refletivos",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "D26",
+                "descricao": "Película alfanumérica para identificação",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "D34",
+                "descricao": "Abraçadeira flexível preta",
+                "unidade": "pç",
+                "quantidade": "8"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "D45",
+                "descricao": "Cobertura protetora para para-raios",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "E22",
+                "descricao": "Para-raios - 12 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "E6",
+                "descricao": "Chave faca - 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F1",
+                "descricao": "Mão francesa cantoneira - tipo 1",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F75",
+                "descricao": "Sela para cruzeta de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F66",
+                "descricao": "Suporte afastador horizontal - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F111",
+                "descricao": "Suporte Z",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F203",
+                "descricao": "Parafuso de cabeça abaulada - M16x100 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F217",
+                "descricao": "Parafuso espaçador",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F303",
+                "descricao": "Haste de aterramento cilíndrica 2400 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O49",
+                "descricao": "Conector 4 derivações aterramento",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "O3",
+                "descricao": "Conector tipo parafuso fendido",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "O11",
+                "descricao": "Conector cunha para aterramento",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O41",
+                "descricao": "Conector Term. Tipo Estrangulador",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "R16",
+                "descricao": "Cruzeta de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F86",
+                "descricao": "Calço para chave faca",
+                "unidade": "pç",
+                "quantidade": "3"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-B3 (Transição – rede compacta / rede convencional)",
+        "materiais": [
+            {
+                "item": "C10",
+                "descricao": "Cabo coberto CU XLPE 16 mm²",
+                "unidade": "m",
+                "quantidade": "3,5"
+            },
+            {
+                "item": "C31",
+                "descricao": "Cabo de aço cobreado 16 mm²",
+                "unidade": "Kg",
+                "quantidade": "2,4"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "D45",
+                "descricao": "Cobertura protetora para para-raios",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "E22",
+                "descricao": "Para-raios - 12kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F2",
+                "descricao": "Mão francesa tipo 2",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F31",
+                "descricao": "Pino longo de isolador – 15 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F53",
+                "descricao": "Suporte para fixação de para raio ou BF",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "7"
+            },
+            {
+                "item": "F75",
+                "descricao": "Sela para cruzeta de fibra",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F202",
+                "descricao": "Parafuso de cabeça abaulada - M16x150 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F217",
+                "descricao": "Parafuso espaçador",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F303",
+                "descricao": "Haste de aterramento cilíndrica 2400 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "I13",
+                "descricao": "Isolador de pino polimérico auto travante",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O3",
+                "descricao": "Conector tipo parafuso fendido",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O49",
+                "descricao": "Conector 4 derivações aterramento",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O11",
+                "descricao": "Conector cunha para aterramento",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O41",
+                "descricao": "Conector Term. Tipo Estrangulador",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "7"
+            },
+            {
+                "item": "R21",
+                "descricao": "Cruzeta de fibra de vidro",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "M1",
+                "descricao": "Alça pré-formada para distribuição",
+                "unidade": "pç",
+                "quantidade": "3"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-PRE (Transição – rede compacta / rede multiplexada – pré-reunido)",
+        "materiais": [
+            {
+                "item": "C10",
+                "descricao": "Cabo coberto CU XLPE 16 mm²",
+                "unidade": "m",
+                "quantidade": "3,5"
+            },
+            {
+                "item": "C31",
+                "descricao": "Cabo de aço cobreado 16 mm²",
+                "unidade": "Kg",
+                "quantidade": "2,4"
+            },
+            {
+                "item": "D23",
+                "descricao": "Suporte para números refletivos",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "D26",
+                "descricao": "Película alfanumérica para identificação",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "D45",
+                "descricao": "Cobertura protetora para para-raios",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "E22",
+                "descricao": "Para-raios - 12kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "E6",
+                "descricao": "Chave faca",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F2",
+                "descricao": "Mão francesa tipo 2",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F217",
+                "descricao": "Parafuso espaçador",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F234",
+                "descricao": "Parafuso cabeça quadrada - M16 x 250 mm",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F303",
+                "descricao": "Haste de aterramento cilíndrica 2400 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F111",
+                "descricao": "Suporte tipo Z",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F54",
+                "descricao": "Suporte para fixação de chave faca",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F59",
+                "descricao": "Adaptador L para terminal",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F75",
+                "descricao": "Sela para cruzeta de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O3",
+                "descricao": "Conector tipo parafuso fendido",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "O41",
+                "descricao": "Conector terminal tipo estrangulador",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O11",
+                "descricao": "Conector cunha para aterramento",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O49",
+                "descricao": "Conector 4 derivações aterramento",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O41",
+                "descricao": "Conector Term. Tipo Estrangulador tipo 1",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "R16",
+                "descricao": "Cruzeta de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "D33",
+                "descricao": "Abraçadeira flexível preta",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-B3-CF (transição / vis-a-vis com chave faca)",
+        "materiais": [
+            {
+                "item": "C10",
+                "descricao": "Cabo coberto CU XLPE 16 mm²",
+                "unidade": "m",
+                "quantidade": "7"
+            },
+            {
+                "item": "C31",
+                "descricao": "Cabo de aço cobreado 16 mm²",
+                "unidade": "Kg",
+                "quantidade": "2,4"
+            },
+            {
+                "item": "D23",
+                "descricao": "Suporte para números refletivos",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "D26",
+                "descricao": "Película alfanumérica para identificação",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "D45",
+                "descricao": "Cobertura protetora para para-raios",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "E22",
+                "descricao": "Para-raios - 12kV",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "E6",
+                "descricao": "Chave faca",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F2",
+                "descricao": "Mão francesa tipo 2",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "F234",
+                "descricao": "Parafuso cabeça quadrada - M16 x 250 mm",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F217",
+                "descricao": "Parafuso espaçador",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F303",
+                "descricao": "Haste de aterramento cilíndrica 2400 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F111",
+                "descricao": "Suporte tipo Z",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F54",
+                "descricao": "Suporte para fixação de chave faca",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F75",
+                "descricao": "Sela para cruzeta de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "7"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada para cabo de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M1",
+                "descricao": "Alça pré-formada de distribuição – rede nua",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O3",
+                "descricao": "Conector tipo parafuso fendido",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "O49",
+                "descricao": "Conector 4 derivações aterramento",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "O41",
+                "descricao": "Conector terminal tipo estrangulador",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "7"
+            },
+            {
+                "item": "O11",
+                "descricao": "Conector cunha para aterramento",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O41",
+                "descricao": "Conector Term. Tipo Estrangulador tipo 1",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "R16",
+                "descricao": "Cruzeta de aço",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "D33",
+                "descricao": "Abraçadeira flexível preta",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-B3-BF (transição / derivação com base fusível) – Rede Compacta Lado Fonte",
+        "materiais": [
+            {
+                "item": "M1",
+                "descricao": "Alça pré-formada de distribuição – rede nua",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada cabo mensageiro",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "C10",
+                "descricao": "Cabo coberto CU XLPE 16 mm²",
+                "unidade": "m",
+                "quantidade": "12"
+            },
+            {
+                "item": "C31",
+                "descricao": "Cabo de aço cobreado 16 mm²",
+                "unidade": "Kg",
+                "quantidade": "2,4"
+            },
+            {
+                "item": "E2",
+                "descricao": "Chave fusível",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "5"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "4"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O6",
+                "descricao": "Conector tipo grampo de linha viva",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O3",
+                "descricao": "Conector tipo parafuso fendido",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "R21",
+                "descricao": "Cruzeta polimérica",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F66",
+                "descricao": "Suporte afastador horizontal - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "E9",
+                "descricao": "Elo fusível",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "D33",
+                "descricao": "Abraçadeira flexível preta",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F201",
+                "descricao": "Parafuso de cabeça abaulada - M16x70 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F303",
+                "descricao": "Haste de aterramento cilíndrica 2400 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polimérico",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F231",
+                "descricao": "Parafuso de cabeça quadrada - M16x125 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F202",
+                "descricao": "Parafuso de cabeça abaulada - M16x150 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F203",
+                "descricao": "Parafuso de cabeça abaulada - M16x100 mm",
+                "unidade": "pç",
+                "quantidade": "5"
+            },
+            {
+                "item": "F217",
+                "descricao": "Parafuso espaçador",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "E22",
+                "descricao": "Para-raios - 12 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "D45",
+                "descricao": "Cobertura protetora para para-raios",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "D26",
+                "descricao": "Película alfanumérica para identificação",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "O11",
+                "descricao": "Conector cunha para aterramento",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "7"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F75",
+                "descricao": "Sela para Cruzeta polimérica",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F111",
+                "descricao": "Suporte Z",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "D23",
+                "descricao": "Suporte para números refletivos",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O50",
+                "descricao": "Conector perfurante 15 kV com estribo",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F53",
+                "descricao": "Suporte para fixação de para-raio e BF",
+                "unidade": "pç",
+                "quantidade": "3"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-B3-BF (transição / derivação com base fusível) – Rede Nua Lado Fonte",
+        "materiais": [
+            {
+                "item": "M1",
+                "descricao": "Alça pré-formada de distribuição – rede nua",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "M25",
+                "descricao": "Alça pré-formada cabo mensageiro",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "M12",
+                "descricao": "Alça pré-formada para cabo coberto",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "C10",
+                "descricao": "Cabo coberto CU XLPE 16 mm²",
+                "unidade": "m",
+                "quantidade": "12"
+            },
+            {
+                "item": "C31",
+                "descricao": "Cabo de aço cobreado 16 mm²",
+                "unidade": "Kg",
+                "quantidade": "2,4"
+            },
+            {
+                "item": "E2",
+                "descricao": "Chave fusível",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F16",
+                "descricao": "Cinta tipo B",
+                "unidade": "pç",
+                "quantidade": "5"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha com proteção galvânica",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "O6",
+                "descricao": "Conector tipo grampo de linha viva",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O3",
+                "descricao": "Conector tipo parafuso fendido",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "R21",
+                "descricao": "Cruzeta polimérica",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F66",
+                "descricao": "Suporte afastador horizontal - 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "E9",
+                "descricao": "Elo fusível",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "D33",
+                "descricao": "Abraçadeira flexível preta",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F303",
+                "descricao": "Haste de aterramento cilíndrica 2400 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "I12",
+                "descricao": "Isolador bastão polim87érico",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F83",
+                "descricao": "Manilha sapatilha",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "F231",
+                "descricao": "Parafuso de cabeça quadrada - M16x125 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F202",
+                "descricao": "Parafuso de cabeça abaulada - M16x150 mm",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F200",
+                "descricao": "Parafuso de cabeça abaulada - M16x45 mm",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F203",
+                "descricao": "Parafuso de cabeça abaulada - M16x100 mm",
+                "unidade": "pç",
+                "quantidade": "5"
+            },
+            {
+                "item": "F217",
+                "descricao": "Parafuso espaçador",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "E22",
+                "descricao": "Para-raios - 12 kV",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "D45",
+                "descricao": "Cobertura protetora para para-raios",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "D26",
+                "descricao": "Película alfanumérica para identificação",
+                "unidade": "pç",
+                "quantidade": "6"
+            },
+            {
+                "item": "O11",
+                "descricao": "Conector cunha para aterramento",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F85",
+                "descricao": "Porca olhal",
+                "unidade": "pç",
+                "quantidade": "7"
+            },
+            {
+                "item": "F300",
+                "descricao": "Sapatilha de aço",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "F75",
+                "descricao": "Sela para Cruzeta polimérica",
+                "unidade": "pç",
+                "quantidade": "2"
+            },
+            {
+                "item": "F111",
+                "descricao": "Suporte Z",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "D23",
+                "descricao": "Suporte para números refletivos",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "02",
+                "descricao": "Estribo",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F53",
+                "descricao": "Suporte para fixação de para-raio e BF",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "F2",
+                "descricao": "Mão francesa plana – Tipo 2",
+                "unidade": "pç",
+                "quantidade": "2"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-B3-BF (transição / derivação com base fusível) – Rede Nua Lado Fonte",
+        "materiais": [
+            {
+                "item": "O41",
+                "descricao": "Conector Term. Tipo Estrangulador tipo 1",
+                "unidade": "pç",
+                "quantidade": "3"
+            },
+            {
+                "item": "O49",
+                "descricao": "Conector 4 derivações aterramento",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "P1",
+                "descricao": "Poste concreto ou fibra",
+                "unidade": "Pç",
+                "quantidade": "1"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-FT (Fly-Tap / conexão aérea até 15 kV)",
+        "materiais": [
+            {
+                "item": "M21",
+                "descricao": "Fio de amarração para separador",
+                "unidade": "m",
+                "quantidade": "24 1"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha",
+                "unidade": "pç",
+                "quantidade": "8 V"
+            },
+            {
+                "item": "D41",
+                "descricao": "Manta para reparo de cabos - 15 kV",
+                "unidade": "pç",
+                "quantidade": "4 1"
+            },
+            {
+                "item": "D48",
+                "descricao": "Separador de fases polimérico",
+                "unidade": "pç",
+                "quantidade": "4 1"
+            }
+        ]
+    },
+    {
+        "nome": "Estrutura CE-LOSANG (Espaçador losangular)",
+        "materiais": [
+            {
+                "item": "D42",
+                "descricao": "Espaçador losangular autotravante – 15 kV",
+                "unidade": "pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O9",
+                "descricao": "Conector cunha",
+                "unidade": "Pç",
+                "quantidade": "1"
+            },
+            {
+                "item": "O3",
+                "descricao": "Conector tipo parafuso fendido",
+                "unidade": "Pç",
+                "quantidade": "1"
+            }
+        ]
+    }
+]
