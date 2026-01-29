@@ -1,7 +1,7 @@
 // frontend/app/services/api.ts
 
 // Pega do .env ou usa localhost:3001 como padrão
-const API_BASE =  'http://localhost:3001';
+const API_BASE = process.env.NEXT_PUBLIC_API_BASE;
 
 export const api = {
   structures: {
